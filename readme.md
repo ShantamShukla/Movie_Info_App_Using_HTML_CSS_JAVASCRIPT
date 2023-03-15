@@ -1,5 +1,5 @@
 # Movie Information Website
-This is a simple movie information website that fetches data from the Open Movie Database (OMDb) API and displays it on the page. The website is built using HTML, CSS, and JavaScript.
+This is a simple movie information website that fetches data from the Open Movie Database (OMDb) API and displays it on the page. The website is built using HTML, CSS, and JavaScript. It was just a fun mini project in I made in my free time.😊
 
 ## Files
 index.html: Contains the HTML code for the website.
